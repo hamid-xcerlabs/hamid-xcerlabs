@@ -11,7 +11,7 @@ Founder of [![xcerlabs](https://img.shields.io/badge/xcerlabs-ffffff?style=flat-
 ## What I'm Building
 
 **Commerce Intelligence Engine (V2 in Progress)**
-Migrating an Instagram concierge from a linear flow to an Agentic RAG system. Using Pinecone to index real-time Shopify inventory, allowing the AI to handle complex product discovery and intent capture with human intervention.
+Migrating an Instagram concierge from a linear flow to an Agentic RAG system. Using Pinecone to index real-time Shopify inventory, allowing the AI to handle complex product discovery and intent capture, with human oversight for edge cases.
 `Claude 3.5` `LangGraph` `n8n` `Pinecone` `Shopify Admin API` `Next.js`
 
 **Next:** Scaling AI systems for e-commerce and DTC brands, and building a productized SaaS under XCER Labs.
