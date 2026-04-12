@@ -4,8 +4,8 @@ I build AI automation systems for small and mid-size businesses — the kind tha
 
 Most of my current clients are US-based SMBs across Florida (Miami, Orlando, Palm Beach) and beyond. I work fully remote, and the bulk of what I deliver sits at the boundary of AI, business operations, and systems integration.
 
-Founder of ![xcerlabs](https://img.shields.io/badge/xcerlabs-ffffff?style=flat&labelColor=9900ff&color=ffffff&logoColor=ffffff) an AI automation company currently expanding across retail, real estate, healthcare, and professional services.
-
+Founder of ![xcerlabs](https://img.shields.io/badge/xcerlabs-ffffff?style=flat-square&logoColor=black)
+ an AI automation company currently expanding across retail, real estate, healthcare, and professional services.
 ---
 
 ## What I'm Building
