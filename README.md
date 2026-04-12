@@ -1,26 +1,18 @@
 # Hamid Reyes
 
-I build AI automation systems for small and mid-size businesses — the kind that run in production, handle edge cases, and keep working after handoff.
+I build AI automation systems for small and mid-size businesses the kind that run in production, handle edge cases, and keep working after handoff.
 
 Most of my current clients are US-based SMBs across Florida (Miami, Orlando, Palm Beach) and beyond. I work fully remote, and the bulk of what I deliver sits at the boundary of AI, business operations, and systems integration.
 
-Founder of ![xcerlabs](https://img.shields.io/badge/xcerlabs-ffffff?style=flat-square&logoColor=black)
+Founder of [![xcerlabs](https://img.shields.io/badge/xcerlabs-ffffff?style=flat-square&logoColor=black)](https://xcerlabs.com)
  an AI automation company currently expanding across retail, real estate, healthcare, and professional services.
 ---
 
 ## What I'm Building
 
 **Commerce Intelligence Engine (V2 in Progress)**
-Migrating an Instagram concierge from a linear flow to an Agentic RAG system. Using Pinecone to index real-time Shopify inventory, allowing the AI to handle complex product discovery and intent capture without human intervention.
+Migrating an Instagram concierge from a linear flow to an Agentic RAG system. Using Pinecone to index real-time Shopify inventory, allowing the AI to handle complex product discovery and intent capture with human intervention.
 `Claude 3.5` `LangGraph` `n8n` `Pinecone` `Shopify Admin API` `Next.js`
-
-**Autonomous Real Estate Transaction Manager**
-Form submission to countersigned contract in under 3 minutes. Eliminates the back-and-forth that kills deals at closing.
-`Google Forms` `n8n` `DocuSign API` `Twilio` `PDF generation`
-
-**Lead Nurturing Pipeline (SMB)**
-Replaced a $40K/yr tool with a custom Observability-first pipeline. Currently implementing LangSmith for cost-tracking and Braintrust for automated lead-scoring "evals" to ensure high-accuracy CRM delivery.
-`n8n` `HubSpot` `Langsmith` `Stripe` `TypeScript`
 
 **Next:** Scaling AI systems for e-commerce and DTC brands, and building a productized SaaS under XCER Labs.
 
