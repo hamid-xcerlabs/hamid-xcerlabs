@@ -1,19 +1,19 @@
-# Hamid Reyes
+# Hamid Raza
 
-I build AI automation systems for small and mid-size businesses the kind that run in production, handle edge cases, and keep working after handoff.
+I design and build intelligent systems that combine AI, automation, APIs, and business workflows to solve real operational problems.
 
-Most of my current clients are US-based SMBs across Florida (Miami, Orlando, Palm Beach) and beyond. I work fully remote, and the bulk of what I deliver sits at the boundary of AI, business operations, and systems integration.
+My work focuses on turning ambiguous business requirements into production-ready systems across customer operations, revenue workflows, business process automation, and decision-support systems.
 
-Founder of [![xcerlabs](https://img.shields.io/badge/xcerlabs-ffffff?style=flat-square&logoColor=black)](https://xcerlabs.com)
-Designing AI-powered business 
-operating systems across retail, real estate & healthcare
+Building [![xcerlabs](https://img.shields.io/badge/xcerlabs-ffffff?style=flat-square&logoColor=black)](https://xcerlabs.com)
+an Independent AI Systems Lab focused on commerce, customer experience, and business operations.
 ---
 
 ## What I'm Building
 
 **Commerce Intelligence Engine (V2 in Progress)**
-Migrating an Instagram concierge from a linear flow to an Agentic RAG system. Using Pinecone to index real-time Shopify inventory, allowing the AI to handle complex product discovery and intent capture, with human oversight for edge cases.
-`Claude 3.5` `LangGraph` `n8n` `Pinecone` `Shopify Admin API` `Next.js`
+An AI-powered commerce system designed to help customers discover products, receive personalized recommendations, and interact with retail businesses through natural conversation.
+The system combines semantic retrieval, real-time inventory access, intent classification, and workflow orchestration to support complex product discovery workflows while maintaining human oversight where required.
+`OpenAI` `MetaAPI` `n8n` `Pinecone` `Shopify Admin API` `Manychat`
 
 **Next:** Scaling AI systems for e-commerce and DTC brands, and building a productized SaaS under XCER Labs.
 
@@ -84,13 +84,38 @@ Migrating an Instagram concierge from a linear flow to an Agentic RAG system. Us
 
 ---
 
-## How I Work
+## How I Think
 
-I come in when a business has a process that works on paper but breaks at scale, too many manual steps, too much time between lead and close, too much depending on one person checking their inbox.
+I start with the business problem, not the technology.
 
-I map the process, identify where AI and automation create real leverage, and build it. Where simple linear automation is enough, I use it. Where the problem needs AI that reasons across steps and makes decisions, I build multi-agent systems. I monitor production systems with observability tooling so failures get caught before clients notice them.
+My process is typically:
 
-Clients span Florida SMBs to remote contracts across the US. I've replaced enterprise SaaS tools with leaner custom builds and built net-new systems where none existed.
+Understand how work currently happens.
+Identify bottlenecks, delays, and manual effort.
+Determine where automation creates value.
+Determine where AI creates value.
+Decide where human judgment should remain.
+Design and implement the system.
+
+I've built systems including:
+
+Lead-to-revenue automation platforms
+AI-assisted operational copilots
+Customer lifecycle automation systems
+Intelligent customer engagement workflows
+Human-in-the-loop AI systems
+Retrieval-based recommendation systems
+
+My focus is not adding AI for the sake of AI. The goal is building systems that improve efficiency, decision-making, reliability, and business outcomes.
+## Current Interests
+AI Agents
+Workflow Orchestration
+Operational Copilots
+Retrieval-Augmented Systems
+Human-in-the-Loop Architectures
+Business Process Automation
+Intelligent Operations
+Multi-System Integrations
 
 ---
 
