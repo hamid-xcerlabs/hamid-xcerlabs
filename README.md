@@ -18,7 +18,7 @@
 ## Selected Work
 
 ### AI Shopping Concierge for Fashion Retail — AI-Powered Customer Experience
-A 24/7 AI shopping assistant for fashion boutiques that answers customer questions, recommends products using live inventory, and recovers sales after business hours. Built with conversational AI, semantic retrieval, real-time product data, and human escalationdrove a 32% higher conversion rate and 70%+ of customer queries answered instantly.
+A 24/7 AI shopping assistant for fashion boutiques that answers customer questions, recommends products using live inventory, and recovers sales after business hours. Built with conversational AI, semantic retrieval, real-time product data, and human escalation drove a 32% higher conversion rate and 70%+ of customer queries answered instantly.
 
 → [Case Study](https://hamid.xcerlabs.com/case-studies/ai-commerce-intelligence-system)
 
