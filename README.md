@@ -1,9 +1,9 @@
 # Hamid Reyes
 
-> I design and build AI products, intelligent systems, and software solutions that connect AI, automation, APIs, data, and business systems. My work spans agentic workflows and AI applications to integrated operational and revenue systems.
+> I architect and ship AI products, intelligent systems, and software solutions that connect AI, automation, APIs, data, and business systems.
 
 ## What I Do
-- Design and build AI-powered products and intelligent systems using LLMs, RAG, agents, tool calling, and workflow orchestration
+- Work directly with LLMs, RAG, agentic pipelines, tool calling, and workflow orchestration to build systems that hold up in production, not demos
 - Turn ambiguous ideas and business requirements into system architectures, working software, integrations, and automation
 - Build and integrate backend systems through APIs, webhooks, databases, third-party platforms, and business applications
 - Design practical solutions across AI, software, automation, data, and business systems, picking whichever combination actually fits the problem
