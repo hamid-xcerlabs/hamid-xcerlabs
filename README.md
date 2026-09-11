@@ -42,4 +42,4 @@ An automated financial reconciliation system for a global SaaS business, integra
 
 ## Contact
 
-[Personal Website](https://hamid.xcerlabs.com) · [LinkedIn](https://linkedin.com/in/hamid-reyes) · hamid@xcerlabs.com
+[Personal Website](https://hamid.xcerlabs.com) · [LinkedIn](https://linkedin.com/in/hamidreyes) · hamid@xcerlabs.com
