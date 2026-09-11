@@ -9,7 +9,9 @@
 - Design practical solutions across AI, software, automation, data, and business systems, picking whichever combination actually fits the problem
 
 ## Currently
-- 🔭 Building: [Enterprise Operations Intelligence for Multi-Location Restaurants — KFC](https://hamid.xcerlabs.com/case-studies/kfc) an enterprise AI system built around KFC's multi-location operations, centralizing customer feedback and operational insights across a network of up to 4,300 U.S. locations
+- 🔭 Building: [Enterprise Operations Intelligence for Multi-Location Restaurants](https://hamid.xcerlabs.com/case-studies/kfc) an enterprise AI system built around KFC's multi-location operations, centralizing customer feedback and operational insights across a network of up to 4,300 U.S. locations
+
+- 🔭 Building: [IntraCore AI](https://github.com/hamid-xcerlabs/intracore-ai) an open-source, local-first AI workspace giving users full control over their models, memory, and data early architectural development, built in public, with FastAPI, Next.js, Ollama, LangChain, and LangGraph
 - 🔬 Exploring: Agentic AI, AI product architecture, retrieval-augmented systems, intelligent automation, AI-assisted decision systems, and multi-system AI integrations
 - 💼 Open to: full-time roles building AI products, agentic systems, or AI-driven automation platforms
 
@@ -33,7 +35,7 @@ An automated financial reconciliation system for a global SaaS business, integra
 | AI / LLM Engineering | OpenAI · Anthropic Claude · Groq · Ollama · LLM Applications · Structured Outputs · Function/Tool Calling · Prompt Engineering |
 | Retrieval & AI Knowledge Systems | RAG · Embeddings · Semantic Search · Pinecone · Qdrant · Neo4j · Supabase |
 | Agentic AI & Orchestration | LangChain · LangGraph · CrewAI · AI Agents · Tool-Using Systems · Workflow Orchestration · Human-in-the-Loop Systems |
-| Software & Backend | Python · TypeScript · Next.js · PostgreSQL · REST APIs · Webhooks · Docker |
+| Software & Backend | Python · TypeScript · Next.js · FastAPI · PostgreSQL · SQLite · SQLAlchemy · Alembic · REST APIs · Webhooks · Docker |
 | Automation & Integration | n8n · Make · API Integration · Event-Driven Workflows · Multi-System Integrations |
 | Business & Product Systems | Shopify · HubSpot · GoHighLevel · ManyChat · Stripe · PayPal · QuickBooks · Twilio · Slack · Gmail API · DocuSign |
 | Engineering & Infrastructure | Docker · GitHub Actions · Observability · Logging · Validation · Error Handling · System Integration |
