@@ -1,4 +1,4 @@
-# Hamid Raza
+# Hamid Reyes
 
 > I architect and ship AI products, intelligent systems, and software solutions that connect AI, automation, APIs, data, and business systems.
 
@@ -14,7 +14,7 @@
 
 - 🔭 Production: [Synacuity | Multi-Tenant AI SaaS for QSR Operations](https://hamid.xcerlabs.com/case-studies/kfc), a production guest intelligence platform supporting 3,700+ KFC U.S. locations and 102 KFC Pakistan locations. The system handles review ingestion, multi-tenant processing, Claude-powered intelligence, operational KPIs, AI-assisted response workflows, human-controlled publishing, and direct Google Business Profile integration.
 
-- 🔭 Building: [IntraCore AI](https://github.com/hamid-xcerlabs/intracore-ai), an open-source, local-first AI workspace giving users control over their models, conversations, memory, documents, tools, and data. Currently in early architectural development and built in public with FastAPI, Next.js, Ollama, LangChain, LangGraph, SQLite, SQLAlchemy, and Alembic.
+- 🔭 Building: [IntraCore AI](https://github.com/hamid-xcerlabs/intracore-ai), Currently in early architectural development as an open-source project using FastAPI, Next.js, Ollama, LangChain, LangGraph, SQLite, SQLAlchemy, and Alembic.
 
 - 🔬 Focus Areas: Agentic AI, AI product architecture, retrieval-augmented systems, intelligent automation, AI-assisted decision systems, local-first AI, private intelligence infrastructure, and multi-system AI integrations
 
@@ -36,9 +36,7 @@ The production architecture spans event-driven ingestion, asynchronous processin
 
 ### AI Shopping Concierge for Fashion Retail - AI-Powered Customer Experience
 
-A 24/7 AI shopping assistant for fashion boutiques that answers customer questions, recommends products using live inventory, and supports customer journeys after business hours.
-
-The system combines conversational AI, semantic product retrieval, Shopify inventory data, Pinecone vector search, recommendation logic, workflow automation, and human escalation.
+An AI-powered commerce system connecting conversational channels with live Shopify inventory, semantic product retrieval, personalized recommendations, automated follow-up workflows, and human escalation.
 
 It contributed to a 32% higher conversion rate, a 27% increase in average order value, and 70%+ of customer queries answered automatically.
 
