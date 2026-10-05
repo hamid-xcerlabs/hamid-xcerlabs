@@ -30,9 +30,9 @@ The system ingests Google Business Profile reviews at scale, resolves tenant and
 
 The production architecture spans event-driven ingestion, asynchronous processing, PostgreSQL/Supabase data models, Claude-based intelligence pipelines, multi-tenant routing, human-in-the-loop workflows, CI/CD, monitoring, retry and recovery logic, usage tracking, and AI cost optimization.
 
-→ [Case Study](https://hamid.xcerlabs.com/case-studies/kfc)
-
-→ Product: [app.synacuity.com](https://app.synacuity.com)
+→ [Technical Showcase](https://github.com/hamid-xcerlabs/synacuity-showcase)  
+→ [Case Study](https://hamid.xcerlabs.com/case-studies/kfc)  
+→ [Live Product](https://app.synacuity.com)
 
 ### AI Shopping Concierge for Fashion Retail - AI-Powered Customer Experience
 
